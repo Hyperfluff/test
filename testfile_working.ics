@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+					   
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+					   
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+DTSTAMP:20251015T120817Z
+UID:3e79bee11564a7b6d8432eba6406264dbfb0b71ba7e3e784f9ace42fb5574291@netz39
+ .de
+DTSTART;TZID=Europe/Berlin:20251015T193000
+DTEND;TZID=Europe/Berlin:20251015T213000
+DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
+  durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
+ ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-10-15).\nintern
+ al\n\nMehr Infos unter https://www.netz39.de/events/2025/2025-10-15_netz39
+ _stammtisch
+LOCATION:Netz39 e.V.\, Leibnizstr. 32\, 39104 Magdeburg
+ORGANIZER:Netz39 Team <kontakt@netz39.de>
+SUMMARY:Netz39-Stammtisch
+END:VEVENT
