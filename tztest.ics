@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
-BEGIN:VTIMEZONE
-TZID:America/New_York
-BEGIN:DAYLIGHT
-				
-TZNAME:Eastern Daylight Time
-DTSTART:19700329T020000
-END:DAYLIGHT
-BEGIN:STANDARD
-
-TZNAME:Eastern Standard Time
-DTSTART:19701025T030000
-END:STANDARD
-END:VTIMEZONE
 
 BEGIN:VEVENT
 DTSTAMP:20251015T120817Z
@@ -29,5 +16,5 @@ DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
  _stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstr. 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
-SUMMARY:Netz39-Stammtisch
+SUMMARY:Netz39-Stammtisch-bla
 END:VEVENT
