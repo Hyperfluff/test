@@ -18,7 +18,7 @@ TZNAME:CET
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:6a8fa33cb015b3a8fb42ea6d3f834328595d0be312a4140a36b8a2bd03dafd83@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20241016T193000
@@ -26,13 +26,13 @@ DTEND;TZID=Europe/Berlin:20241016T193000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2024:2024-10-16).\n\nMehr
-  Infos unter https://www.netz39.de/events/2024/2024-10-16_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2024/2024-10-16_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:cd87aac15a98983edd4cba56dc77c8ff2db90cec2b6fa795df3ec422696c21c1@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20241106T193000
@@ -40,13 +40,13 @@ DTEND;TZID=Europe/Berlin:20241106T193000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2024:2024-11-06).\n\nMehr
-  Infos unter https://www.netz39.de/events/2024/2024-11-06_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2024/2024-11-06_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:f810299c197815509aca5e6a7d64354c76be2a085c54781d44ba6c5296413ce2@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20241108T193000
@@ -57,14 +57,13 @@ DESCRIPTION:Die elektronische Patient:innenakte (ePa) kommt! Was sich damit
  utieren. Der Stammtisch findet am 08.11. um 19:30 Uhr mit netten Menschen 
  und Snacks im @netz39 (https://machteburch.social/@netz39) statt. Wir freu
  en uns auf deine Teilnahme und einen regen Austausch zum Thema!\n\nMehr In
- fos unter https://www.netz39.de/events/2024/2024-11-08_softwerke_stammtisc
- h
+ fos unter http://0.0.0.0:4000/events/2024/2024-11-08_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:9a1f5655a8a7d0aecf357c56fb2331a3a34c1bb1b344ee29c63fa9f30774aee5@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20241111T190000
@@ -73,14 +72,14 @@ DESCRIPTION:Am 11. November treffen wir uns für einen lockeren Austausch
  über Nix (Sprache und Paketmanager) und NixOS (Linux Distribution).\nFall
  s dich interessiert\, was man damit machen kann und wo die Unterschiede zu
   anderen Linux Distributionen und Paketmanagern liegen\, komm gerne vorbei
- .\n-> https://nixos.org/\n\nMehr Infos unter https://www.netz39.de/events/
- 2024/2024-11-11_nixos_meetup
+ .\n-> https://nixos.org/\n\nMehr Infos unter http://0.0.0.0:4000/events/20
+ 24/2024-11-11_nixos_meetup
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:NixOS-Meetup
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:9f50a6eb6828f1bb15b358478fe5f1a24bfa47216097050ae000b6d08329fa34@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20241127T193000
@@ -88,13 +87,13 @@ DTEND;TZID=Europe/Berlin:20241127T193000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2024:2024-11-27).\n\nMehr
-  Infos unter https://www.netz39.de/events/2024/2024-11-27_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2024/2024-11-27_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:7bc47bfc470fd933ab2b0793c778a60a31c7539938c46980c500ee919f2808b3@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20241213T193000
@@ -106,14 +105,14 @@ DESCRIPTION:🔒 Deine Daten\, deine Kontrolle! 🌐 \nHast du dich jemals
  t!\n👨‍🏫 Wann: Freitag\, 13.12.2024 19:30  \n📍 Wo: Netz39 e. V. 
   \n💻 Für wen: Alle\, die ihre Privatsphäre im Netz schützen wollen 
  – ganz ohne Vorkenntnisse!\nLass uns gemeinsam die Kontrolle über deine
-  Daten zurückgewinnen! 🚀\n\nMehr Infos unter https://www.netz39.de/eve
- nts/2024/2024-12-13_softwerke_stammtisch
+  Daten zurückgewinnen! 🚀\n\nMehr Infos unter http://0.0.0.0:4000/event
+ s/2024/2024-12-13_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:b58fad941086586c1aae64b8fcdec557f82d3442c92ed2d7278914c7881156ea@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20241218T193000
@@ -121,13 +120,13 @@ DTEND;TZID=Europe/Berlin:20241218T193000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2024:2024-12-18).\n\nMehr
-  Infos unter https://www.netz39.de/events/2024/2024-12-18_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2024/2024-12-18_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:28bfde377051af546421f48f498d2d6fc9a1f694ea9e80d37bc445de26b07111@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250110T193000
@@ -139,14 +138,14 @@ DESCRIPTION:CAD-Software ist mittlerweile in der Maker:innen-Community in a
   1.0 erschienen. Grund genug\, einen Stammtisch zum Thema FOSS und #CAD zu
   veranstalten! Wir treffen uns am 10. Januar um 19:30 Uhr im @netz39 und f
  reuen uns auf deine Teilnahme – komm rum zum Snacken und Schnacken.\n\nM
- ehr Infos unter https://www.netz39.de/events/2025/2025-01-10_softwerke_sta
- mmtisch
+ ehr Infos unter http://0.0.0.0:4000/events/2025/2025-01-10_softwerke_stamm
+ tisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:64c40120f2ac2ce4d3616da65add4bf0ede0c9caff03ba853e439065f85448c1@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250115T193000
@@ -154,13 +153,13 @@ DTEND;TZID=Europe/Berlin:20250115T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-01-15).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-01-15_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-01-15_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:c99c34154ef5d953767852bd4cb611dd31644770a746c631c119443313f44e23@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250205T193000
@@ -168,13 +167,13 @@ DTEND;TZID=Europe/Berlin:20250205T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-02-05).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-02-05_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-02-05_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:c0bc72cd17d2060c5db4019d42a228ed90cae70c54ce062fb5e5234e26b2bd77@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250226T193000
@@ -182,13 +181,13 @@ DTEND;TZID=Europe/Berlin:20250226T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-02-26).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-02-26_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-02-26_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:fed1ffad7efd30784a04dbaacc8be201b2af3312c3ce028cc9d8c6ec3962f482@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250314T193000
@@ -200,14 +199,14 @@ DESCRIPTION:Die bekanntesten sozialen Medien entwickeln eine mehr und mehr
  r Dienst dabei – also komm vorbei und tausch dich mit uns aus über die 
  Weiten des Fediverse! Wir treffen uns am 14. März um 19:30 Uhr im @netz39
   (https://www.netz39.de/) und freuen uns auf deine Teilnahme – komm rum 
- zum Snacken und Schnacken.\n\nMehr Infos unter https://www.netz39.de/event
- s/2025/2025-03-14_softwerke_stammtisch
+ zum Snacken und Schnacken.\n\nMehr Infos unter http://0.0.0.0:4000/events/
+ 2025/2025-03-14_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:ecfcd159836c0e15f1b807b6cdf2b861a1e718e1dfb735eaae842d1ff2ae2bbb@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250319T193000
@@ -215,13 +214,13 @@ DTEND;TZID=Europe/Berlin:20250319T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-03-19).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-03-19_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-03-19_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:3679e3e42c58c8ef5d155a2979813eb3fba29f37c41846ed64fea4f607a4fcc6@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250409T193000
@@ -229,13 +228,13 @@ DTEND;TZID=Europe/Berlin:20250409T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-04-09).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-04-09_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-04-09_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:84af19038da38bf9899b6df8a81bfbc6ea6b72bbf475c83962be2e06557c193f@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250411T193000
@@ -248,14 +247,14 @@ DESCRIPTION:Was ging bei den Linux-Tagen?\nEinige von euch waren vermutlich
  ogramm und tauschen uns zu interessanten Themen darin aus. Einige Stammtis
  ch-Gäste bringen zudem Erfahrungsberichte mit.\nSei dabei! Wir treffen un
  s am 11. April um 19:30 Uhr im @netz39 und freuen uns auf deine Teilnahme 
- am gemeinschaftlichen Snacken und Schnacken.\n\nMehr Infos unter https://w
- ww.netz39.de/events/2025/2025-04-11_softwerke_stammtisch
+ am gemeinschaftlichen Snacken und Schnacken.\n\nMehr Infos unter http://0.
+ 0.0.0:4000/events/2025/2025-04-11_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:89d970245f9bd25837a13c8821dce82df9ab25292843bd4638fa21ba2e38bbd0@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250430T173000
@@ -263,14 +262,14 @@ DTEND;TZID=Europe/Berlin:20250430T193000
 DESCRIPTION:Wir tauschen uns über laufende und geplante Förderanträge au
  s und helfen uns gegenseitig beim Formulieren\, Strukturieren und Dranblei
  ben. Ob erfahrener Antragshacker oder Neuling im Förderdschungel – jede
- *r ist willkommen.\n\nMehr Infos unter https://www.netz39.de/events/2025/2
- 025-04-30_foerderantraege_stammtisch
+ *r ist willkommen.\n\nMehr Infos unter http://0.0.0.0:4000/events/2025/202
+ 5-04-30_foerderantraege_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Förderanträge-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:37828fc7b8c278c74f818fbce67bf791fcb607ee3400e42f0623405ab9dbabe4@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250430T193000
@@ -279,7 +278,7 @@ DESCRIPTION:Du willst das Netz39 kennenlernen\, brauchst hilfe dabei etwas
  zu reparieren oder suchst Feedback für dein Projekt? Dann schau vorbei zu
  m freien Hacken! Das wöchentliche Event zum Löten\, Coden\, Nähen\, Fr
  äsen\, Reparieren oder einfach mit 'ner Mate in der Lounge chillen.\n\nMe
- hr Infos unter https://www.netz39.de/events/2025/2025-04-30_freies_hacken
+ hr Infos unter http://0.0.0.0:4000/events/2025/2025-04-30_freies_hacken
 LOCATION:Netz39 e.V.
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Freies Hacken
@@ -298,7 +297,7 @@ EXDATE;VALUE=DATE:20251126
 EXDATE;VALUE=DATE:20251217
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:0bc73978a1fd239d6d2b00d003d13e713a21d3945bd1ac93fb03bac26bc231bf@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250430T193000
@@ -306,26 +305,26 @@ DTEND;TZID=Europe/Berlin:20250430T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-04-30).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-04-30_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-04-30_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:23f105f0a167bc74e1989db526fc844a4b201d0b0680504467480c09f625fe6b@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250509T193000
 DTEND;TZID=Europe/Berlin:20250509T213000
 DESCRIPTION:Am Freitag den 9. Mai 2025 findet der Stammtisch der Softwerke 
- Magdeburg e. V. bei uns im Space statt!\n\nMehr Infos unter https://www.ne
- tz39.de/events/2025/2025-05-09_softwerke_stammtisch
+ Magdeburg e. V. bei uns im Space statt!\n\nMehr Infos unter http://0.0.0.0
+ :4000/events/2025/2025-05-09_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:d14bcfb19c96f7ffabc2a5ebfa591c2d2f660567786872c0c15aa26a240aa419@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250512T100000
@@ -333,13 +332,13 @@ DTEND;TZID=Europe/Berlin:20250514T180000
 DESCRIPTION:Die 10. Magdeburger Developer Days werden in der Zeit vom 12.05
  . – 14.05.2025 – natürlich wieder im AMO Kulturhaus – stattfinden! 
  Auch das Netz39 ist dabei. Alle Neuigkeiten folgen in Kürze.\n\nMehr Info
- s unter https://www.netz39.de/events/2025/2025-05-12_MD_DevDays
+ s unter http://0.0.0.0:4000/events/2025/2025-05-12_MD_DevDays
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Magdeburger Developer Days
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:c58c8cde5ee465065849f40b1717130227dfa83f4836206172b7ea05d9f713a3@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250521T193000
@@ -347,13 +346,13 @@ DTEND;TZID=Europe/Berlin:20250521T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-05-21).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-05-21_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-05-21_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:19e86290d7070e527e105f18d4c993677757d752898f32012e4644fafc365c95@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250611T193000
@@ -361,13 +360,13 @@ DTEND;TZID=Europe/Berlin:20250611T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-06-11).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-06-11_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-06-11_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:77a196b340faaf91e27ea559e2364f24e2c19388159f4a78b66c4a5130322115@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250613T193000
@@ -380,14 +379,14 @@ DESCRIPTION:UnplugTrump – Europäische Alternativen zu Tech-Konzernen aus
  opäische Software-Alternativen zu „BigTech“ sprechen. Menschen mit je
  dem Wissensstand sind willkommen\; fühl dich herzlich eingeladen zum geme
  insamen Schnacken. Ab 19.30 Uhr im @netz39 (https://www.netz39.de/) in der
-  Leibnizstraße 32 mit tollen Leuten und Snacks!\n\nMehr Infos unter https
- ://www.netz39.de/events/2025/2025-06-13_softwerke_stammtisch
+  Leibnizstraße 32 mit tollen Leuten und Snacks!\n\nMehr Infos unter http:
+ //0.0.0.0:4000/events/2025/2025-06-13_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:8d8121de33c0240683aa79bf32b0ea2cc49bb4c306f62c9bafaf43af4004b6bc@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250614T180000
@@ -399,26 +398,26 @@ DESCRIPTION:🎤 Es gibt spannende Talks zu Technik\, Kunst & Digitalem\n
  kte stöbern willst – bei uns bist du richtig. Bring deine Neugier mit\,
   den Rest regeln wir. 😎\n📍 Mehr Infos zur Langen Nacht der Wissensch
  aft findest du unter:\nwissenschaftsnacht.magdeburg.de\n\nMehr Infos unter
-  https://www.netz39.de/events/2025/2025-06-14_LNDW
+  http://0.0.0.0:4000/events/2025/2025-06-14_LNDW
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Lange Nacht der Wissenschaften
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:2b64aaca8a31d0c91adeb90e88b289ad257b2568981a7ae5b21aa980944074f5@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250702T193000
 DTEND;TZID=Europe/Berlin:20250702T213000
 DESCRIPTION:Hier findet statt Stammtisch die jährliche Mitgliederversammlu
- ng statt\n\nMehr Infos unter https://www.netz39.de/events/2025/2025-07-02_
- n39_mitgliederversammlung
+ ng statt\n\nMehr Infos unter http://0.0.0.0:4000/events/2025/2025-07-02_n3
+ 9_mitgliederversammlung
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Mitgliederversammlung des Netz39 e. V.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:5de8a96e55699a0cc8f56a6f064cf1399f49bc7388c2858cb79365b7008f97ca@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250705T100000
@@ -429,13 +428,13 @@ DESCRIPTION:Aufgrund von Krankheit müssen wir den Workshop leider absagen\
  ige Näherfahrungen. Der Totoro ist sehr gut für Anfänger geeignet.\nPre
  is\nAuf spendenbasis.\nVerpflegung\nGegen einen kleinen Obolus gibt es Get
  ränke im Space. Alles andere muss mitgebracht werden.\n\nMehr Infos unter
-  https://www.netz39.de/events/2025/2025-07-05_naehworkshop_totoro
+  http://0.0.0.0:4000/events/2025/2025-07-05_naehworkshop_totoro
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:'ABGESAGT: Totoro' Nähworkshop
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:7dcddfeea1d2a7439075311870ed5e1203027626675b43f13734b3932911fb61@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250711T193000
@@ -447,14 +446,14 @@ DESCRIPTION:Open Source und Hardware?! Ja: nicht nur Software kann quell-of
  r\, ESP\, Arduino und Raspberry Pi – was gehört dazu\, was nicht\; was 
  kennst du noch? Alle Menschen sind herzlich eingeladen zum gemeinsamen Sna
  cken und Schnacken ab 19.30 Uhr im @netz39 (https://www.netz39.de/) in der
-  Leibnizstraße 32!\n\nMehr Infos unter https://www.netz39.de/events/2025/
- 2025-07-11_softwerke_stammtisch
+  Leibnizstraße 32!\n\nMehr Infos unter http://0.0.0.0:4000/events/2025/20
+ 25-07-11_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:5295dbcd57e8cefaf532fd04df17cb62a5bbc6c4b3206621684b57147314b14c@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250723T193000
@@ -462,13 +461,13 @@ DTEND;TZID=Europe/Berlin:20250723T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-07-23).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-07-23_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-07-23_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:106668633c740c4912661cc0fc027365d92e37f616a09a1cbe0ef2cf77455de9@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250808T193000
@@ -482,14 +481,14 @@ DESCRIPTION:digital unterwegs ohne Werbung\nAm Freitag den 8. August 2025 f
  nDas nervt dich? Uns auch! Lass uns drüber reden und Ideen zur Lösung au
  stauschen – komm wie immer am zweiten Freitag im Monat ab 19.30 Uhr im @
  netz39 in die Leibnizstraße 32 zum gemeinsamen Snacken und Schnacken!\n\n
- Mehr Infos unter https://www.netz39.de/events/2025/2025-08-08_softwerke_st
- ammtisch
+ Mehr Infos unter http://0.0.0.0:4000/events/2025/2025-08-08_softwerke_stam
+ mtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:1a63f006bca69bb50d7c8139559b4977536b316e653862bda60c7bde69ca9bdb@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250813T193000
@@ -497,26 +496,26 @@ DTEND;TZID=Europe/Berlin:20250813T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-08-13).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-08-13_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-08-13_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:277393f63262e0584bf1a016fa08fb71569978d66b6d16d63fe8163c19ba1387@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250829T193000
 DTEND;TZID=Europe/Berlin:20250829T213000
 DESCRIPTION:Am Freitag dem 29. August 2025 findet der Linux-Stammtisch der 
  Softwerke Magdeburg e. V. bei uns im Space statt!\n\nMehr Infos unter http
- s://www.netz39.de/events/2025/2025-08-29_linux_stammtisch
+ ://0.0.0.0:4000/events/2025/2025-08-29_linux_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Linux-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:249cac1cd708fd5588d54c6ae94e2398c63429877ec266c1f1e061aee4ffa0eb@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250903T193000
@@ -524,26 +523,26 @@ DTEND;TZID=Europe/Berlin:20250903T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-09-03).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-09-03_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-09-03_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:a40e809dab4993a844b20ad1149b53f21a03743baa570cb76938cae6de86156e@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250912T193000
 DTEND;TZID=Europe/Berlin:20250912T213000
 DESCRIPTION:Am Freitag den 12. September 2025 findet der Stammtisch der Sof
- twerke Magdeburg e. V. bei uns im Space statt!\n\nMehr Infos unter https:/
- /www.netz39.de/events/2025/2025-09-12_softwerke_stammtisch
+ twerke Magdeburg e. V. bei uns im Space statt!\n\nMehr Infos unter http://
+ 0.0.0.0:4000/events/2025/2025-09-12_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:898a927ee901254952e111448ea8546edbbb82873903984bb5c2ffc933cfc040@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250919T140000
@@ -554,13 +553,13 @@ DESCRIPTION:Park(ing) day is a global\, public\, participatory project wher
   greener\, and more equitable streets for people.\nFrom: https://www.mypar
  kingday.org/\nOrga in MD durch: https://adfc-magdeburg.de/\n<!-- event imp
  orted from discord manual changes may be overwritten -->\n\nMehr Infos unt
- er https://www.netz39.de/events/2025/2025-09-19_parking_day
+ er http://0.0.0.0:4000/events/2025/2025-09-19_parking_day
 LOCATION:Hasselbachplatz bis Einsteinstr. (vor der Stern-Apotheke)
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:PARKing Day
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:d90107b13e3f7f482dcc6f2d651d6fb9317b05b11205febd75aaa411fbb2bfa3@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20250924T193000
@@ -568,40 +567,40 @@ DTEND;TZID=Europe/Berlin:20250924T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-09-24).\n\nMehr
-  Infos unter https://www.netz39.de/events/2025/2025-09-24_n39_stammtisch
+  Infos unter http://0.0.0.0:4000/events/2025/2025-09-24_n39_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:f615fbff3f7087e07b1bb1829fde387bcc2516577d82e9c5011517ded8b369e2@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251006T140000
 DTEND;TZID=Europe/Berlin:20251006T170000
 DESCRIPTION:Wir haben einen Stand auf der FaRaFIN Campusrallye angeboten be
  kommen. Gestaltung noch offen.\n<!-- event imported from discord manual ch
- anges may be overwritten -->\n\nMehr Infos unter https://www.netz39.de/eve
- nts/2025/2025-10-06_farafin_campusrallye
+ anges may be overwritten -->\n\nMehr Infos unter http://0.0.0.0:4000/event
+ s/2025/2025-10-06_farafin_campusrallye
 LOCATION:OVGU Campus
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:FaRaFIN Campusrallye
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:bcec326e954f9bb3c730d48bfaad7bf1f3ce5111f1a4dae023dcab590a4077f3@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251010T193000
 DTEND;TZID=Europe/Berlin:20251010T213000
 DESCRIPTION:Am Freitag den 10. Oktober 2025 findet der Stammtisch der Softw
  erke Magdeburg e. V. bei uns im Space statt!\nexternal\n\nMehr Infos unter
-  https://www.netz39.de/events/2025/2025-10-10_softwerke_stammtisch
+  http://0.0.0.0:4000/events/2025/2025-10-10_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:ef894b3d05beb1d1790315b2e57dd90acd244e534adb77581926f6e912492583@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251012T160000
@@ -618,14 +617,14 @@ DESCRIPTION:Der Support für Windows 10 endet am 14. Oktober 2025 – die G
  enug Speicherplatz für ein Backup deiner Daten. Im besten Fall erstelle d
  ieses Backup bereits zu Hause.\nAnmeldung und Fragen unter endof10@netz39.
  de\nWeitere Termine: \n25.10.2025 16:00Uhr (https://www.netz39.de/events/2
- 025/2025-10-25_linux_install_party)\ninternal\n\nMehr Infos unter https://
- www.netz39.de/events/2025/2025-10-12_linux_install_party
+ 025/2025-10-25_linux_install_party)\ninternal\n\nMehr Infos unter http://0
+ .0.0.0:4000/events/2025/2025-10-12_linux_install_party
 LOCATION:Netz39 e.V.\, Leibnizstr. 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Linux Install Party
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:3e79bee11564a7b6d8432eba6406264dbfb0b71ba7e3e784f9ace42fb5574291@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251015T193000
@@ -633,14 +632,14 @@ DTEND;TZID=Europe/Berlin:20251015T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-10-15).\nintern
- al\n\nMehr Infos unter https://www.netz39.de/events/2025/2025-10-15_netz39
- _stammtisch
+ al\n\nMehr Infos unter http://0.0.0.0:4000/events/2025/2025-10-15_netz39_s
+ tammtisch
 LOCATION:Netz39 e.V.\, Leibnizstr. 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:629cca62fbf043e9a6cd7d47649e9c6886b7e4b9fa9f365b8d0688a0f91d70cd@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251025T160000
@@ -657,14 +656,14 @@ DESCRIPTION:Der Support für Windows 10 endet am 14. Oktober 2025 – die G
  enug Speicherplatz für ein Backup deiner Daten. Im besten Fall erstelle d
  ieses Backup bereits zu Hause.\nAnmeldung und Fragen unter endof10@netz39.
  de\nWeitere Termine: \n12.10.2025 16:00Uhr (https://www.netz39.de/events/2
- 025/2025-10-12_linux_install_party)\ninternal\n\nMehr Infos unter https://
- www.netz39.de/events/2025/2025-10-25_linux_install_party
+ 025/2025-10-12_linux_install_party)\ninternal\n\nMehr Infos unter http://0
+ .0.0.0:4000/events/2025/2025-10-25_linux_install_party
 LOCATION:Netz39e.V.\, Leibnizstr.32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Linux Install Party
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:9264793d8484bb5c2ee116774ef7aa3ae34c36db1a05594031dc2aee740df187@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251104T083000
@@ -674,15 +673,15 @@ DESCRIPTION:Die Abkürzung MINT steht für Mathematik\, Informatik\, Naturw
  Gesellschaft sehr wichtig. Wir wurden von der Stadt eingeladen uns dort vo
  rzustellen und Workshops anzubieten. Geplant aktuell: 3 Lötstationen für
   Lötgeister und ein 3D-Drucker zur Demo.\nhttps://www.vocatium.de/berufsf
- eld-foren-mint/vocatium-madeburg-focus\n\nMehr Infos unter https://www.net
- z39.de/events/2025/2025-11-04_forum_mint_auf_der_vocatium_magdeburg_focus_
- 2025
+ eld-foren-mint/vocatium-madeburg-focus\n\nMehr Infos unter http://0.0.0.0:
+ 4000/events/2025/2025-11-04_forum_mint_auf_der_vocatium_magdeburg_focus_20
+ 25
 LOCATION:Hyparschale (Kleiner Stadtmarsch 7\, 39114 Magdeburg)
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Forum MINT auf der vocatium Magdeburg focus 2025
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:b76d1aab6b326242fd65f7b11ff0c45a22495cc9f2988690559ad72743cd4124@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251105T083000
@@ -692,15 +691,15 @@ DESCRIPTION:Die Abkürzung MINT steht für Mathematik\, Informatik\, Naturw
  Gesellschaft sehr wichtig. Wir wurden von der Stadt eingeladen uns dort vo
  rzustellen und Workshops anzubieten. Geplant aktuell: 3 Lötstationen für
   Lötgeister und ein 3D-Drucker zur Demo.\nhttps://www.vocatium.de/berufsf
- eld-foren-mint/vocatium-madeburg-focus\n\nMehr Infos unter https://www.net
- z39.de/events/2025/2025-11-05_forum_mint_auf_der_vocatium_magdeburg_focus_
- 2025
+ eld-foren-mint/vocatium-madeburg-focus\n\nMehr Infos unter http://0.0.0.0:
+ 4000/events/2025/2025-11-05_forum_mint_auf_der_vocatium_magdeburg_focus_20
+ 25
 LOCATION:Hyparschale (Kleiner Stadtmarsch 7\, 39114 Magdeburg)
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Forum MINT auf der vocatium Magdeburg focus 2025
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:a9ea9babd882507ba0408616ac0a528963b032aa5ca37fa0f02efc13977fc5c6@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251105T193000
@@ -708,28 +707,28 @@ DTEND;TZID=Europe/Berlin:20251105T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-11-05).\nintern
- al\n\nMehr Infos unter https://www.netz39.de/events/2025/2025-11-05_netz39
- _stammtisch
+ al\n\nMehr Infos unter http://0.0.0.0:4000/events/2025/2025-11-05_netz39_s
+ tammtisch
 LOCATION:Netz39 e.V.\, Leibnizstr. 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:4753f8f1bbd203ff41b6e90ca66c7807206b223034ea85a90b7f3add3cc8cf44@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251107T190000
 DTEND;TZID=Europe/Berlin:20251107T210000
 DESCRIPTION:Wir wollen uns austauschen über die Erfahrungen\, die wir mit 
  ChatGPT\, Claude und Co. gemacht haben. Was sind eure Fragen\, Tipps und S
- orgen?\n\nMehr Infos unter https://www.netz39.de/events/2025/2025-11-07_me
- etup_erfahrungsaustausch_zum_ki_einsatz
+ orgen?\n\nMehr Infos unter http://0.0.0.0:4000/events/2025/2025-11-07_meet
+ up_erfahrungsaustausch_zum_ki_einsatz
 LOCATION:Netz39 e.V.\, Leibnizstr. 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Meetup: Erfahrungsaustausch zum KI-Einsatz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:0b4ec18f1908089dc2990cd2572093342f1038a4282ffa99a362c5cb1e724abe@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251108T100000
@@ -737,27 +736,27 @@ DTEND;TZID=Europe/Berlin:20251108T235900
 DESCRIPTION:Wir probieren verschiedene CRMs aus. Derzeit stehen CiviCRM und
   Hitobito auf dem Plan\, aber weitere Vorschläge sind willkommen. Außerd
  em gucken wir uns die Aktivisti App der Partei die Linke an.\nPad zur Orga
-  folgt.\n\nMehr Infos unter https://www.netz39.de/events/2025/2025-11-08_h
- ackathon_mitgliederverwaltung
+  folgt.\n\nMehr Infos unter http://0.0.0.0:4000/events/2025/2025-11-08_hac
+ kathon_mitgliederverwaltung
 LOCATION:Netz39 e.V.\, Leibnizstr. 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Hackathon Mitgliederverwaltung
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:538e858ac766803d588078d7bd9011ba88560d2a975723525840aee79d38291d@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251114T193000
 DTEND;TZID=Europe/Berlin:20251114T213000
 DESCRIPTION:Am Freitag den 14. November 2025 findet der Stammtisch der Soft
  werke Magdeburg e. V. bei uns im Space statt!\nexternal\n\nMehr Infos unte
- r https://www.netz39.de/events/2025/2025-11-14_softwerke_stammtisch
+ r http://0.0.0.0:4000/events/2025/2025-11-14_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:622978754c1493fb05e993b539c853598f4f5754faca42f472402ffd63636419@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251126T193000
@@ -765,27 +764,27 @@ DTEND;TZID=Europe/Berlin:20251126T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-11-26).\nintern
- al\n\nMehr Infos unter https://www.netz39.de/events/2025/2025-11-26_netz39
- _stammtisch
+ al\n\nMehr Infos unter http://0.0.0.0:4000/events/2025/2025-11-26_netz39_s
+ tammtisch
 LOCATION:Netz39 e.V.\, Leibnizstr. 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:4eac6007c9c31cbbba3d8abbc844c53baac3c2f7155ded85c6fd75f99a9dc87c@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251212T193000
 DTEND;TZID=Europe/Berlin:20251212T213000
 DESCRIPTION:Am Freitag den 12. Dezember 2025 findet der Stammtisch der Soft
  werke Magdeburg e. V. bei uns im Space statt!\nexternal\n\nMehr Infos unte
- r https://www.netz39.de/events/2025/2025-12-12_softwerke_stammtisch
+ r http://0.0.0.0:4000/events/2025/2025-12-12_softwerke_stammtisch
 LOCATION:Netz39 e.V.\, Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Softwerke-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:a85e042755a1f854f2c80c6d0741ba40dae8cd890f7b7729a018f749fc76e34a@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251217T193000
@@ -793,34 +792,34 @@ DTEND;TZID=Europe/Berlin:20251217T213000
 DESCRIPTION:Es ist wieder Vereins-Stammtisch! Wie immer in allen ganzzahlig
   durch drei teilbaren Kalenderwochen. Das Protokoll dieses Stammtisches fi
  ndet ihr hier (https://wiki.netz39.de/stammtisch:2025:2025-12-17).\nintern
- al\n\nMehr Infos unter https://www.netz39.de/events/2025/2025-12-17_netz39
- _stammtisch
+ al\n\nMehr Infos unter http://0.0.0.0:4000/events/2025/2025-12-17_netz39_s
+ tammtisch
 LOCATION:Netz39 e.V.\, Leibnizstr. 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39-Stammtisch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:96688b61b3387f454103169f586416f4d5aaaede69df41785482f04af2558f8a@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20251227T000000
 DTEND;TZID=Europe/Berlin:20251230T234500
 DESCRIPTION:Anreise am besten schon am Tag 0 (26.12) zum Aufbau\n\nMehr Inf
- os unter https://www.netz39.de/events/2025/2025-12-27_39c3_chaos_communica
- tion_congress
+ os unter http://0.0.0.0:4000/events/2025/2025-12-27_39c3_chaos_communicati
+ on_congress
 LOCATION:CCH Hamburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:39C3 - Chaos Communication Congress
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T180927Z
+DTSTAMP:20251015T190216Z
 UID:c0495b978af141d4b4db55e0ba9b6da8080e7deec2663fd467274752ab5e5bbe@netz39
  .de
 DTSTART;TZID=Europe/Berlin:20260505T220000
 DTEND;TZID=Europe/Berlin:20260506T214500
 DESCRIPTION:<!-- event imported from discord manual changes may be overwrit
- ten -->\n\nMehr Infos unter https://www.netz39.de/events/2026/discord-even
- t-1372679970798702744
+ ten -->\n\nMehr Infos unter http://0.0.0.0:4000/events/2026/discord-event-
+ 1372679970798702744
 LOCATION:Netz39 e.V. - Leibnizstraße 32\, 39104 Magdeburg
 ORGANIZER:Netz39 Team <kontakt@netz39.de>
 SUMMARY:Netz39 Geburtstag (2012 gegründet)
